@@ -1,0 +1,6 @@
+ASSIGNMENT
+Write a simple Python script to find distance between 
+2 distinguish straight lines named AB and CD 
+which are built from 4 arbitrary points A(x1, y1, z1), B(x2, y2,z2), 
+C(x3, y3, z3), D(x4, y4, z4). Input is the coordinate of 4 points, output is the distance.
+Deadline: Please submit the script by 5pm on Monday, Aug23.

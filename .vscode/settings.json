@@ -14,5 +14,12 @@
         "rrurdr",
         "ujnft"
     ],
-    "python.pythonPath": "C:\\Users\\USER\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe"
+    "python.pythonPath": "C:\\Users\\USER\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+    "cSpell.words": [
+        "emaildb",
+        "mbox",
+        "parms",
+        "twurl"
+    ],
+    "python.formatting.provider": "yapf"
 }
