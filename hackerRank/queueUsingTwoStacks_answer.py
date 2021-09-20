@@ -52,4 +52,4 @@ if __name__ == '__main__':
         elif (q[0] == 2):
             queue.dequeue()
         elif (q[0] == 3):
-            print(queue.getFront() + '\n')
+            print(queue.getFront())
