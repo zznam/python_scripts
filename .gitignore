@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Tooling & System ignores
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+.vscode/
+.idea/
+.env.local
+node_modules/
+coverage/
+
